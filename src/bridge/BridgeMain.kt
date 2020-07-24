@@ -1,13 +1,10 @@
 package bridge
 
-object BridgeMain {
-    @JvmStatic
-    fun main(args: Array<String>) {
-        val circle: AbstractShape = Circle(Black())
-        circle.draw()
-        circle.color = Red()
-        circle.draw()
-        val square : AbstractShape = Square(Red())
-        square.draw()
-    }
+fun main(args: Array<String>) {
+    val circle: AbstractShape = Circle(Black())
+    circle.draw()
+    circle.color = Red()
+    circle.draw()
+    val square : AbstractShape = Square(Red())
+    square.draw()
 }
