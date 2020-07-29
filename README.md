@@ -2,7 +2,8 @@
 Some Design Patterns Examples in Kotlin
 
 ## Creational
-* Decorator 
+###### [Decorator](https://github.com/stalbeal/DesignPattern/tree/master/src/creationals/decorator)
+
 
 ## Structural
 ###### [Bridge](https://github.com/stalbeal/DesignPattern/tree/master/src/structurals/bridge)
