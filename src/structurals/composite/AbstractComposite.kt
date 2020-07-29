@@ -1,4 +1,4 @@
-package composite
+package structurals.composite
 
 abstract class AbstractComposite {
 

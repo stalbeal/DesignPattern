@@ -1,4 +1,4 @@
-package bridge
+package structurals.bridge
 
 fun main(args: Array<String>) {
     val circle: AbstractShape = Circle(Black())

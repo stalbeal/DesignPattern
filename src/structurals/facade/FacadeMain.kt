@@ -1,4 +1,4 @@
-package facade
+package structurals.facade
 
 fun main(args: Array<String>) {
 

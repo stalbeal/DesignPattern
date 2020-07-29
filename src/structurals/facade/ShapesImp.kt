@@ -1,4 +1,4 @@
-package facade
+package structurals.facade
 
 class Circle : Shape {
     override fun draw() {

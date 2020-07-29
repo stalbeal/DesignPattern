@@ -1,4 +1,4 @@
-package decorator
+package creationals.decorator
 
 abstract class AbstractComputer {
     abstract fun calculateCost(): Float

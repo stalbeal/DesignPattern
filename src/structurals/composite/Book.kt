@@ -1,4 +1,4 @@
-package composite
+package structurals.composite
 
 class Book : AbstractComposite() {
     private var sheetsList = ArrayList<AbstractComposite>()

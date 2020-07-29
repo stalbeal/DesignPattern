@@ -1,4 +1,4 @@
-package bridge
+package structurals.bridge
 
 class Black : Color {
     override fun paint() {

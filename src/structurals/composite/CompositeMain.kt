@@ -1,4 +1,4 @@
-package composite
+package structurals.composite
 
 /**
  * Problem: Currently a writer is asked to write different sheets,

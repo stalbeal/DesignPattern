@@ -1,4 +1,4 @@
-package facade
+package structurals.facade
 
 class ShapeMakerFacade {
 

@@ -1,4 +1,4 @@
-package bridge
+package structurals.bridge
 
 abstract class AbstractShape(var color: Color) {
 

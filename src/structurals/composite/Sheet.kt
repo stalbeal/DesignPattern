@@ -1,4 +1,4 @@
-package composite
+package structurals.composite
 
 class Sheet(private var amount: Int) : AbstractComposite() {
     override fun getAmount(): Int {

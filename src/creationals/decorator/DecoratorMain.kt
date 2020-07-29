@@ -1,4 +1,4 @@
-package decorator
+package creationals.decorator
 
 
 fun main(args: Array<String>) {
