@@ -1,4 +1,4 @@
-package creationals.decorator
+package structurals.decorator
 
 class FastSSD(computer: AbstractComputer) : AbstractComponentDecorator() {
 
