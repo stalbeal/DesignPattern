@@ -2,6 +2,8 @@
 Some Design Patterns Examples in Kotlin
 
 ## Creational
+###### [Singleton](https://github.com/stalbeal/DesignPattern/tree/master/src/creationals/singleton)
+
 
 
 ## Structural
