@@ -3,6 +3,8 @@ Some Design Patterns Examples in Kotlin
 
 ## Creational
 ###### [Singleton](https://github.com/stalbeal/DesignPattern/tree/master/src/creationals/singleton)
+###### [Factory](https://github.com/stalbeal/DesignPattern/tree/master/src/creationals/factory)
+###### [Abstrac Factory](https://github.com/stalbeal/DesignPattern/tree/master/src/creationals/abstractfactory)
 
 
 
@@ -17,3 +19,7 @@ Currently a writer is asked to write different sheets, for each sheet he writes 
 
 ###### [Flyweight](https://github.com/stalbeal/DesignPattern/tree/master/src/structurals/flyweight)
 Problem: It is required to use a program which will load "several cars" and when asked for its details, show patent, color, owner. Keep in mind that it must take up little memory since it is a massive project.
+
+## Behavioral
+###### [Strategy](https://github.com/stalbeal/DesignPattern/tree/master/src/behaviorals/strategy)
+
