@@ -5,8 +5,8 @@ Some Design Patterns Examples in Kotlin
 ###### [Singleton](https://github.com/stalbeal/DesignPattern/tree/master/src/creationals/singleton)
 ###### [Factory](https://github.com/stalbeal/DesignPattern/tree/master/src/creationals/factory)
 ###### [Abstrac Factory](https://github.com/stalbeal/DesignPattern/tree/master/src/creationals/abstractfactory)
-###### [Builder](https://github.com/stalbeal/DesignPattern/tree/master/src/creationals/build)
-
+###### [Builder](https://github.com/stalbeal/DesignPattern/tree/master/src/creationals/builder)
+###### [Prototype](https://github.com/stalbeal/DesignPattern/tree/master/src/creationals/prototype)
 
 
 ## Structural
